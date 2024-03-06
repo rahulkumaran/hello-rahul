@@ -1,15 +1,23 @@
 {
-  "name": "hello-rahul",
+  "name": "@rahulkumaran/hello-rahul",
   "version": "0.0.1",
-  "description": "",
+  "description": "A package that introduces Rahul Arulkumaran!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
     "hello-rahul": "index.js"
-  },  
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulkumaran/npx-intro-rahulkumaran.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rahulkumaran/npx-intro-rahulkumaran/issues"
+  },
+  "homepage": "https://github.com/rahulkumaran/npx-intro-rahulkumaran#readme"
 }
