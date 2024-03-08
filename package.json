@@ -1,8 +1,11 @@
 {
   "name": "@rahulkumaran/hello-rahul",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A package that introduces Rahul Arulkumaran!",
   "main": "index.js",
+  "dependencies": {
+    "asynckit": "^0.4.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
